@@ -9,3 +9,5 @@ index:
 - [Set Up a Basic Website! nginx, Certbot & secure login](https://youtu.be/OWAqilIVNgE)
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ)
 - [Gmail's dumb: Just host your own mail server!](https://youtu.be/9zP7qooM4pY)
+- [Setting up *Your Own* Git Server](https://youtu.be/ju9loeXNVW0)
+- [A Custom, Private Search Engine in 10 minutes](https://youtu.be/oufXi3e-VuA)
